@@ -1,10 +1,14 @@
 # Surafel Nigusie's Portfolio
 
-Welcome to my portfolio! I'm Surafel Nigusie, a passionate software developer with expertise in blockchain technology. This portfolio showcases some of the projects I've worked on, highlighting my skills and experience in software development.
+Welcome to my portfolio! 
+
+I'm Surafel Nigusie, a passionate software developer with expertise in blockchain technology. 
+This portfolio showcases some of the projects I've worked on, highlighting my skills and experience in software development.
 
 ## Projects
 
-### Project 1: [Project Name]
+### Project 1: Mini Pay 
+
 
 - **Description**: Brief description of the project.
 - **Technologies**: List of technologies/languages used.
